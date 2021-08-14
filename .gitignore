@@ -1,0 +1,16 @@
+# Environments
+/.venv/
+
+# Python cache
+__pycache__/
+
+# Python package build directories
+*.egg-info/
+
+# Screen play results output file
+/screenplay.output
+
+# Coverage
+/.coverage
+/coverage.txt
+/coverage_html/
