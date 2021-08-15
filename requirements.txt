@@ -6,6 +6,6 @@ flake8-polyfill>=1.0.2
 Sphinx==3.0.4
 sphinx-rtd-theme==0.4.3
 radon>=4.1.0
--e ../Python-ScreenPlay/screenplay
--e ../ScreenPlaySelenium
--e ../SphinxJinja2
+git+git://github.com/byran/ScreenPlay@master#ogg=ScreenPlay
+git+git://github.com/byran/ScreenPlaySelenium@master#ogg=ScreenPlaySelenium
+git+git://github.com/byran/SphinxJinja2@master#ogg=SphinxJinja2
