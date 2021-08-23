@@ -8,4 +8,5 @@ sphinx-rtd-theme==0.4.3
 radon>=4.1.0
 git+git://github.com/byran/ScreenPlay@master#ogg=ScreenPlay
 git+git://github.com/byran/ScreenPlaySelenium@master#ogg=ScreenPlaySelenium
+git+git://github.com/byran/ScreenPlayBehave.git@master#ogg=ScreenPlayBehave
 git+git://github.com/byran/SphinxJinja2@master#ogg=SphinxJinja2
