@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python-ScreenPlay'
+project = 'ScreenPlayExample'
 copyright = '2020, Byran Wills-Heath'
 author = 'Byran Wills-Heath'
 
